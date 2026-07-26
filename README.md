@@ -77,11 +77,7 @@ python main.py
 ## 📝 Log Output Example
 
 ```
-[2026-07-26 10:15:30] h
-[2026-07-26 10:15:31] e
-[2026-07-26 10:15:32] Key.space
-[2026-07-26 10:15:33] w
-[2026-07-26 10:15:34] Key.enter
+hel Key.space lo Key.enter
 ```
 
 ---
