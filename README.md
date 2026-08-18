@@ -120,10 +120,8 @@ hel Key.space lo Key.enter
 
 [![GitHub stars](https://img.shields.io/github/stars/Mr-B1nary/SimpleKeylogger?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mr-B1nary/SimpleKeylogger/stargazers)
 
-<br>
 
 
 
-**Learn. Build. Protect.** 🔒
 
 </div>
